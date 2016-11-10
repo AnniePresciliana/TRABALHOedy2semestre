@@ -4,6 +4,9 @@ http method
 
 GET 
 ENVIA INFORMAÇÕES PELA URL , OU URI
+get recupera os dados do servidor (tras as informaçoes passando o id , como exemplo)
+
 
 POST 
 ENVIA DADOS NO CORPO DO HTTP
+POST - salva, ou envia  dados no servidor 
