@@ -19,3 +19,10 @@ CTRL + TAB MUDA OS ARQUIVOS QUE EU TO TRABALHANDO
 f2 
 
 ctrl + renomeia 
+
+
+? ternario 
+
+"./sucess.html" : "./acess-denied.html"
+
+if for verdadeiro aparece sucess , se for falso aparece acess-denied
