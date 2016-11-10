@@ -10,3 +10,6 @@ get recupera os dados do servidor (tras as informaçoes passando o id , como exe
 POST 
 ENVIA DADOS NO CORPO DO HTTP
 POST - salva, ou envia  dados no servidor 
+
+
+ATRAVEZ DO ATRIBUTO NAME  NO HTML É O QUE VAI SER ENVIADO AO SERVIDOR 
