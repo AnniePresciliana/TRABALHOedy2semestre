@@ -1,0 +1,44 @@
+
+edysegura	[10:02 PM]  
+Exercício :
+
+[10:03]  
+Re-implementar o exercício de login usando express e o layout provido neste link:
+
+[10:04]  
+https://github.com/univas/form-css
+
+
+USANDO ESSE FORMULARIO 
+univas/form-css
+form-css - Using CSS to stylish an HTML form 
+
+USANDO XPRESS 
+
+nao usar query 
+usar requere .post   (METHOD POST)
+
+
+USANDO NODE JS BMI 2015
+
+
+PRIMEIRO :
+npm install 
+
+depois 
+npm start 
+
+
+usar na barra do navegador 
+localHOST 3000 
+
+
+
+ GitHub
+univas/2015-nodejs-bmi
+2015-nodejs-bmi - Example using NodeJS to calculate the BMI 
+
+
+
+
+https://2016-si6.slack.com/messages/class-13/
