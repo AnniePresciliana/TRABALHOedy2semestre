@@ -99,3 +99,6 @@ curl -X GET http://localhost/contacts
 
 [{id:1, name:"Alexandre Ottoni"}, {id:2, name:"Azaghal"}]
 É isso aí pessoal, acima vemos a demonstração de uma singela aplicação REST que controla uma lista de contatos. Obviamente que se estívessesmos trablahando com alguma banco de dados o código seria um pouco diferente, porém o exemplo está aí para ilustrar o uso desse módulo do NodeJS.
+
+
+http://coenraets.org/blog/2012/02/sample-application-with-angular-js/
